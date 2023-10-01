@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jakestu
 - 👀 I’m interested in ... creative projects, including gaming
-- 🌱 I’m currently learning ... HTML, CSS, and Javascript; soon to transition to Java
-- 💞️ I’m looking to collaborate on ... Pyton, HTML/CSS, debugging/optimization projects
+- 🌱 I’m currently learning ... Java, Command Line, and Android App Development
+- 💞️ I’m looking to collaborate on ... creative/debugging/optimization projects
 - 📫 How to reach me ... jakesturgill.com
 
 <!---
